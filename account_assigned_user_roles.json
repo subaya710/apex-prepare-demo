@@ -1,0 +1,9 @@
+{
+	"model": "account_assigned_user_roles",
+	"data": [
+		{
+			"account_id":"2",
+			"user_id":"660b51e3b402af3b8980ab1c"
+		}
+	]
+}
