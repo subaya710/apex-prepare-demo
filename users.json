@@ -8,6 +8,14 @@
 			"email_address": "jfrazierqa@gmail.com",
 			"type_id": "portal",
 			"is_auth_active": true
+		},
+		{
+			"user_id": "660b51e3b402af3b8980ab1c",
+			"first_name": "blah",
+			"last_name": "blahblah",
+			"email_address": "c.a.subaya+1001@gmail.com",
+			"type_id": "admin",
+			"is_auth_active": true
 		}
 	]
 }
