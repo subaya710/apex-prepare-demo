@@ -1,5 +1,5 @@
 {
-	"model": "account_assigned_user_roles",
+	"model": "assigned_users",
 	"data": [
 		{
 			"account_id":"2",
