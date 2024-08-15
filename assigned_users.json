@@ -5,6 +5,11 @@
 			"account_id":"2",
 			"user_id":"660b51e3b402af3b8980ab1c",
             "assigned_user_role_id": "2"
+		},
+		{
+			"account_id":"2",
+			"user_id":"6601c85cb402af3b897f6b30",
+            "assigned_user_role_id": "4"
 		}
 	]
 }
