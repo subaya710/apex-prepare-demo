@@ -122,6 +122,12 @@
 						"is_required": true
 					},
 					{
+						"core_field_id": "partner_signup.date",
+						"label": "Date",
+						"name": "date",
+						"is_required": false
+					},
+					{
 						"core_field_id": "partner_signup.address",
 						"label": "Address",
 						"name": "address",
